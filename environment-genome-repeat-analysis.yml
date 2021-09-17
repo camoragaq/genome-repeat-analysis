@@ -1,0 +1,8 @@
+name: quality-assembly-tools
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - purge_haplotigs
+  - gmap
